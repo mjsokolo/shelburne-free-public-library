@@ -1,0 +1,72 @@
+---
+import Site from '../layouts/Site.astro';
+import library from '../data/library.json';
+import { pages, localUrl, renderContent } from '../lib/pages';
+
+export function getStaticPaths() {
+  return pages.map(page => ({
+    params: { slug: page.frontmatter.path.replace(/^\/|\/$/g, '') || undefined },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const path = page.frontmatter.path;
+const isHome = path === '/';
+const helpLinks = [
+  ['Get a library card', '/patron-self-registration-2/'],
+  ['Access my account', '/how-do-i/access-my-account/'],
+  ['Find new titles', '/see-new-titles-at-sfpl/'],
+  ['Borrow ebooks & audiobooks', '/how-do-i/borrow-ebooks-audiobooks-and-more/'],
+  ['Keep a borrowing history', '/how-do-i/create-an-items-checked-out-history/'],
+  ['Get catalog help', '/cw-mars-online-help-for-patrons/'],
+  ['Borrow a Wi-Fi hotspot', '/wifi-hotspots/'],
+  ['Ask about curbside pickup', '/curbside-pick-up/'],
+  ['Search the Commonwealth Catalog', '/hours/'],
+];
+---
+<Site title={page.frontmatter.title}>
+  {isHome ? (
+    <>
+      <section class="library-image" aria-labelledby="home-title">
+        <img src={localUrl('/media/2015/04/librarypostcard.jpg')} alt="Historic postcard showing Shelburne Free Public Library" width="1024" height="577" fetchpriority="high" />
+        <div class="image-caption"><span>Shelburne, Massachusetts</span><h1 id="home-title">Shelburne Free Public Library</h1></div>
+      </section>
+      <div class="home-grid">
+        <section aria-labelledby="borrow-title">
+          <p class="eyebrow">Your library</p>
+          <h2 id="borrow-title">Find your next good read.</h2>
+          <p>Explore the catalog, borrow something new, or get help from your local library.</p>
+          <div class="service-list">
+            <a href="https://www.cwmars.org/"><strong>Search the CW MARS catalog</strong><span>Books, audiobooks, movies & more <span aria-hidden="true">↗</span></span></a>
+            <a href={localUrl('/patron-self-registration-2/')}><strong>Get a library card</strong><span>Start your registration <span aria-hidden="true">→</span></span></a>
+            <a href={localUrl('/full-text-magazines-news-encyclopedias-and-e-reference-books/')}><strong>Explore digital resources</strong><span>Research, magazines & reference <span aria-hidden="true">→</span></span></a>
+            <a href={localUrl('/how-do-i/')}><strong>Borrow & get help</strong><span>Your account, ebooks & library services <span aria-hidden="true">→</span></span></a>
+          </div>
+        </section>
+        <aside class="visit" aria-labelledby="visit-title">
+          <p class="eyebrow">Plan a visit</p>
+          <h2 id="visit-title">Library hours</h2>
+          <dl class="hours">{library.hours.map(({ day, time }) => <div><dt>{day}</dt><dd>{time}</dd></div>)}</dl>
+          <address>{library.street}<br />{library.city}</address>
+          <p><a href="https://www.google.com/maps/search/?api=1&query=Shelburne+Free+Public+Library+233+Shelburne+Center+Rd+Shelburne+MA">Get directions <span aria-hidden="true">↗</span></a></p>
+          <p><a href={`tel:+1${library.phone.replaceAll('-', '')}`}>{library.phone}</a><br /><a href={`mailto:${library.email}`}>{library.email}</a></p>
+        </aside>
+      </div>
+    </>
+  ) : (
+    <article class="page-content">
+      <a class="back-link" href={localUrl('/')}>Home</a>
+      <h1>{page.frontmatter.title}</h1>
+      {path === '/how-do-i/' ? (
+        <ul class="help-list">{helpLinks.map(([label, url]) => <li><a href={localUrl(url)}>{label}<span aria-hidden="true"> →</span></a></li>)}</ul>
+      ) : path === '/hours-2/' ? (
+        <><dl class="hours">{library.hours.map(({ day, time }) => <div><dt>{day}</dt><dd>{time}</dd></div>)}</dl><address>{library.street}<br />{library.city}</address><p><a href="https://www.google.com/maps/search/?api=1&query=Shelburne+Free+Public+Library+233+Shelburne+Center+Rd+Shelburne+MA">Get directions</a></p><p>Call <a href={`tel:+1${library.phone.replaceAll('-', '')}`}>{library.phone}</a> with questions about visiting.</p></>
+      ) : path === '/contact/' ? (
+        <><p>{library.director}, Library Director</p><address>{library.street}<br />{library.city}</address><p><a href={`tel:+1${library.phone.replaceAll('-', '')}`}>{library.phone}</a><br /><a href={`mailto:${library.email}`}>{library.email}</a></p></>
+      ) : (
+        <div class="prose" set:html={await renderContent(page)} />
+      )}
+    </article>
+  )}
+</Site>

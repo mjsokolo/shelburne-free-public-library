@@ -1,0 +1,1574 @@
+[
+  {
+    "id": 556,
+    "date": "2022-02-15T12:47:10",
+    "date_gmt": "2022-02-15T17:47:10",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=556"
+    },
+    "modified": "2022-02-15T12:49:50",
+    "modified_gmt": "2022-02-15T17:49:50",
+    "slug": "wifi-hotspots",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/wifi-hotspots/",
+    "title": {
+      "rendered": "Wifi Hotspots"
+    },
+    "content": {
+      "rendered": "<p><a href=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4529.jpg\"><img class=\"alignnone size-medium wp-image-557\" src=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4529-233x300.jpg\" alt=\"\" width=\"233\" height=\"300\" srcset=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4529-233x300.jpg 233w, http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4529-768x987.jpg 768w, http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4529-797x1024.jpg 797w\" sizes=\"(max-width: 233px) 100vw, 233px\" /></a> <a href=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4530.jpg\"><img class=\"alignnone size-medium wp-image-558\" src=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4530-235x300.jpg\" alt=\"\" width=\"235\" height=\"300\" srcset=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4530-235x300.jpg 235w, http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4530-768x980.jpg 768w, http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2022/02/IMG-4530-803x1024.jpg 803w\" sizes=\"(max-width: 235px) 100vw, 235px\" /></a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 18,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/556"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=556"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/556/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 560,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/556/revisions/560"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=556"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 536,
+    "date": "2021-09-27T12:28:55",
+    "date_gmt": "2021-09-27T16:28:55",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=536"
+    },
+    "modified": "2022-07-05T14:00:31",
+    "modified_gmt": "2022-07-05T18:00:31",
+    "slug": "hours-2",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/hours-2/",
+    "title": {
+      "rendered": "Hours"
+    },
+    "content": {
+      "rendered": "<p style=\"text-align: center;\">Tuesday: 10:00 am to 3:00 pm</p>\n<p style=\"text-align: center;\">Thursday: 3:00 pm to 7:00 pm</p>\n<p style=\"text-align: center;\">Saturday: 10:00 am to 2:00 pm</p>\n<p style=\"text-align: center;\">\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Tuesday: 10:00 am to 3:00 pm Thursday: 3:00 pm to 7:00 pm Saturday: 10:00 am to 2:00 pm</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 2,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/536"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=536"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/536/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 568,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/536/revisions/568"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=536"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 524,
+    "date": "2021-09-12T09:52:26",
+    "date_gmt": "2021-09-12T13:52:26",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=524"
+    },
+    "modified": "2021-12-31T08:37:30",
+    "modified_gmt": "2021-12-31T13:37:30",
+    "slug": "patron-self-registration-2",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/patron-self-registration-2/",
+    "title": {
+      "rendered": "Patron Self Registration"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://shelburne.cwmars.org/eg/opac/register\">Click this link to register</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Click this link to register</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 14,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/524"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=524"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 8,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/524/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 549,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/524/revisions/549"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=524"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 482,
+    "date": "2020-07-23T17:05:06",
+    "date_gmt": "2020-07-23T21:05:06",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=482"
+    },
+    "modified": "2020-07-23T17:07:45",
+    "modified_gmt": "2020-07-23T21:07:45",
+    "slug": "cw-mars-online-help-for-patrons",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/cw-mars-online-help-for-patrons/",
+    "title": {
+      "rendered": "CW MARS Online help"
+    },
+    "content": {
+      "rendered": "<p>Searching and Browsing the Online Catalog</p>\n<p><a href=\"https://www.cwmars.org/help/catalogaccount-help/help-searching-and-browsing-the-catalog\">https://www.cwmars.org/help/catalogaccount-help/help-searching-and-browsing-the-catalog</a></p>\n<p>Placing and Managing Holds through the online catalog</p>\n<p><a href=\"https://www.cwmars.org/help/catalogaccount-help/help-placing-and-managing-holds\">https://www.cwmars.org/help/catalogaccount-help/help-placing-and-managing-holds</a></p>\n<p>Your online account</p>\n<p><a href=\"https://www.cwmars.org/help/catalogaccount-help/help-my-account\">https://www.cwmars.org/help/catalogaccount-help/help-my-account</a></p>\n<p>Using My Lists in your online account</p>\n<p><a href=\"https://www.cwmars.org/help/catalogaccount-help/help-my-lists\">https://www.cwmars.org/help/catalogaccount-help/help-my-lists</a></p>\n<p>CW MARS OverDrive FAQ</p>\n<p><a href=\"https://www.cwmars.org/help/overdrive-faq\">https://www.cwmars.org/help/overdrive-faq</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Searching and Browsing the Online Catalog https://www.cwmars.org/help/catalogaccount-help/help-searching-and-browsing-the-catalog Placing and Managing Holds through the online catalog https://www.cwmars.org/help/catalogaccount-help/help-placing-and-managing-holds Your online account https://www.cwmars.org/help/catalogaccount-help/help-my-account Using My Lists in your online account https://www.cwmars.org/help/catalogaccount-help/help-my-lists CW MARS OverDrive FAQ https://www.cwmars.org/help/overdrive-faq</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 14,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/482"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=482"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/482/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 485,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/482/revisions/485"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=482"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 425,
+    "date": "2020-06-27T07:23:50",
+    "date_gmt": "2020-06-27T11:23:50",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=425"
+    },
+    "modified": "2020-07-02T20:09:06",
+    "modified_gmt": "2020-07-03T00:09:06",
+    "slug": "see-new-titles-at-sfpl",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/see-new-titles-at-sfpl/",
+    "title": {
+      "rendered": "See new titles"
+    },
+    "content": {
+      "rendered": "<header class=\"entry-header\">\n<h1 class=\"entry-title\">  See new books, magazines, DVDs and audio books Shelburne Free has made available in the last 14 days.</h1>\n<p>&nbsp;</p>\n<p>CLICK HERE    <a href=\"https://bark.cwmars.org/eg/opac/results?bookbag=23405;page=0;depth=0\" target=\"_blank\" rel=\"noopener noreferrer\">NEW TITLES AT SFPL!</a></p>\n</header>\n<div class=\"entry-content\">\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>  See new books, magazines, DVDs and audio books Shelburne Free has made available in the last 14 days. &nbsp; CLICK HERE    NEW TITLES AT SFPL! &nbsp; &nbsp;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 10,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/425"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=425"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 9,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/425/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 473,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/425/revisions/473"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=425"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 389,
+    "date": "2020-06-21T10:20:23",
+    "date_gmt": "2020-06-21T14:20:23",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=389"
+    },
+    "modified": "2020-06-28T08:37:08",
+    "modified_gmt": "2020-06-28T12:37:08",
+    "slug": "boston-public-library",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/boston-public-library/",
+    "title": {
+      "rendered": "Boston Public Library"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://www.bpl.org/\" target=\"_blank\" rel=\"noopener noreferrer\">BOSTON PUBLIC LIBRARY WEBSITE</a></p>\n<p>If you are a Massachusetts resident you can register for a BPL eCard online and take advantage of the electronic resources the BPL offers to all residents of the state. Click the link below to be taken to the information and registration page.</p>\n<p><a href=\"https://www.bpl.org/ecard/?_ga=2.251894217.1371511649.1592671814-1770808332.1592671814\" target=\"_blank\" rel=\"noopener noreferrer\">BPL eCard</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>BOSTON PUBLIC LIBRARY WEBSITE If you are a Massachusetts resident you can register for a BPL eCard online and take advantage of the electronic resources the BPL offers to all residents of the state. Click the link below to be taken to the information and registration page. BPL eCard</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 11,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/389"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=389"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/389/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 446,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/389/revisions/446"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=389"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "date": "2020-06-16T10:22:16",
+    "date_gmt": "2020-06-16T14:22:16",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=267"
+    },
+    "modified": "2023-02-20T12:10:39",
+    "modified_gmt": "2023-02-20T17:10:39",
+    "slug": "curbside-pick-up",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/curbside-pick-up/",
+    "title": {
+      "rendered": "Curbside pick-up"
+    },
+    "content": {
+      "rendered": "<div class=\"entry-content\">\n<p>&nbsp;</p>\n</div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>&nbsp; &nbsp; &nbsp;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 9,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/267"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=267"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 48,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/267/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 572,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/267/revisions/572"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=267"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "date": "2015-04-28T11:59:53",
+    "date_gmt": "2015-04-28T11:59:53",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=181"
+    },
+    "modified": "2020-06-20T09:54:43",
+    "modified_gmt": "2020-06-20T13:54:43",
+    "slug": "borrow-ebooks-audiobooks-and-more",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/how-do-i/borrow-ebooks-audiobooks-and-more/",
+    "title": {
+      "rendered": "Borrow ebooks, audiobooks and more"
+    },
+    "content": {
+      "rendered": "<p>Go to the Overdrive help page and learn how to install Overdrive and use it.</p>\n<p><a href=\"http://help.overdrive.com/?Sup=http://digitalbooks.cwmars.org/Support.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Overdrive</a></p>\n<p>If you want personal assistance you can set up a time for one on one help.</p>\n<p>call or email</p>\n<p>413-625-0307</p>\n<p>sfplibrary@cwmars.org</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Go to the Overdrive help page and learn how to install Overdrive and use it. Overdrive If you want personal assistance you can set up a time for one on one help. call or email 413-625-0307 sfplibrary@cwmars.org</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 72,
+    "menu_order": 6,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/181"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=181"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/181/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 280,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/181/revisions/280"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=181"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "date": "2015-04-25T19:52:53",
+    "date_gmt": "2015-04-25T19:52:53",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=170"
+    },
+    "modified": "2015-04-29T14:17:33",
+    "modified_gmt": "2015-04-29T14:17:33",
+    "slug": "create-an-items-checked-out-history",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/how-do-i/create-an-items-checked-out-history/",
+    "title": {
+      "rendered": "Create an Items Checked-out History"
+    },
+    "content": {
+      "rendered": "<p>To set up your account so you can see a list of items you have checked out, starting with the date that you set the preference.</p>\n<ol>\n<li>Go to: <a href=\"http://www.cwmars.org/\" target=\"_blank\"> cwmars.org</a></li>\n<li>Go to: <strong>Login to your Library Account</strong></li>\n<li>Login using your library card number and password</li>\n<li>Go to: <strong>Account Preferences</strong></li>\n<li>Go to: <strong>Search and History Preferences</strong></li>\n<li>Check the box next to <strong>&#8220;keep history of checked out items?&#8221;</strong></li>\n<li>Check the box next to<strong> &#8221; keep a history of holds?&#8221;</strong></li>\n<li>Hit <strong>SAVE</strong></li>\n</ol>\n<p>Then, to view your &#8220;Checked Out History&#8221;</p>\n<ol>\n<li>Go to: <a href=\"http://www.cwmars.org/\" target=\"_blank\"> cwmars.org</a></li>\n<li>Login as in step 3</li>\n<li>Go to:<strong> Items Checked Out</strong></li>\n<li>Go to: <strong>Check Out History</strong></li>\n</ol>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>To set up your account so you can see a list of items you have checked out, starting with the date that you set the preference. Go to:  cwmars.org Go to: Login to your Library Account Login using your library card number and password Go to: Account Preferences Go to: Search and History Preferences Check &#8230; <a title=\"Create an Items Checked-out History\" class=\"read-more\" href=\"http://www.shelburnefreepubliclibrary.org/how-do-i/create-an-items-checked-out-history/\">Read more <span class=\"screen-reader-text\">Create an Items Checked-out History</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 72,
+    "menu_order": 3,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/170"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=170"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 4,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/170/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 192,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/170/revisions/192"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "date": "2015-04-22T16:42:54",
+    "date_gmt": "2015-04-22T16:42:54",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=150"
+    },
+    "modified": "2020-06-26T10:14:57",
+    "modified_gmt": "2020-06-26T14:14:57",
+    "slug": "see-new-books",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/how-do-i/see-new-books/",
+    "title": {
+      "rendered": "See new titles"
+    },
+    "content": {
+      "rendered": "<header class=\"entry-header\">\n<h1 class=\"entry-title\">  See new titles added to the SFPL catalog in the last 14 days.</h1>\n</header>\n<div class=\"entry-content\">\n<p>To see new titles added to the SFPL collection in the last 14 days, go to<a href=\"http://www.cwmars.org/\" target=\"_blank\" rel=\"noopener noreferrer\"> CW MARS</a> and click on the EXPLORE  drop down menu and click on NEW TITLES.</p>\n<p>Once on the new titles page, scroll down and look for<strong> Shelburne Free Public Library.</strong> ( Middle column near the bottom). Click on it and you will be taken to a page in the catalog that displays our new titles. From here you can place a hold and read reviews.</p>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>  See new titles added to the SFPL catalog in the last 14 days. To see new titles added to the SFPL collection in the last 14 days, go to CW MARS and click on the EXPLORE  drop down menu and click on NEW TITLES. Once on the new titles page, scroll down and look for Shelburne Free &#8230; <a title=\"See new titles\" class=\"read-more\" href=\"http://www.shelburnefreepubliclibrary.org/how-do-i/see-new-books/\">Read more <span class=\"screen-reader-text\">See new titles</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 72,
+    "menu_order": 2,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/150"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=150"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 12,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/150/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 420,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/150/revisions/420"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=150"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "date": "2015-04-19T20:05:47",
+    "date_gmt": "2015-04-20T00:05:47",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=83"
+    },
+    "modified": "2020-06-21T10:04:32",
+    "modified_gmt": "2020-06-21T14:04:32",
+    "slug": "full-text-magazines-news-encyclopedias-and-e-reference-books",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/full-text-magazines-news-encyclopedias-and-e-reference-books/",
+    "title": {
+      "rendered": "Electronic Resources"
+    },
+    "content": {
+      "rendered": "<p>&nbsp;</p>\n<p>The Massachusetts Board of Library Commissioners (MBLC) and the Massachusetts Library System (MLS) license the following electronic resources for use by all Massachusetts residents from their local libraries, schools, or their home computers with Internet access.</p>\n<p>&nbsp;</p>\n<p><strong>Full-text magazines, news, encyclopedias, and e-reference books.</strong></p>\n<p>Click on the highlighted &#8220;Gale Resources&#8221; below to access hundreds of electronic resources.</p>\n<p><a href=\"http://galesites.com/menu/mlin_w_shelburne\" target=\"_blank\" rel=\"noopener noreferrer\">Gale Resources</a></p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>&nbsp; The Massachusetts Board of Library Commissioners (MBLC) and the Massachusetts Library System (MLS) license the following electronic resources for use by all Massachusetts residents from their local libraries, schools, or their home computers with Internet access. &nbsp; Full-text magazines, news, encyclopedias, and e-reference books. Click on the highlighted &#8220;Gale Resources&#8221; below to access hundreds &#8230; <a title=\"Electronic Resources\" class=\"read-more\" href=\"http://www.shelburnefreepubliclibrary.org/full-text-magazines-news-encyclopedias-and-e-reference-books/\">Read more <span class=\"screen-reader-text\">Electronic Resources</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 7,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/83"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=83"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 12,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/83/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 374,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/83/revisions/374"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=83"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "date": "2015-04-19T19:06:32",
+    "date_gmt": "2015-04-19T19:06:32",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=74"
+    },
+    "modified": "2021-09-12T08:42:41",
+    "modified_gmt": "2021-09-12T12:42:41",
+    "slug": "access-my-account",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/how-do-i/access-my-account/",
+    "title": {
+      "rendered": "Access my account"
+    },
+    "content": {
+      "rendered": "<p>&nbsp;</p>\n<p>First, go to<a href=\"http://www.cwmars.org/\" target=\"_blank\" rel=\"noopener noreferrer\"> cwmars.org</a></p>\n<p>Click on MY ACCOUNT in the top upper right of the page. This will take you to the Login page.</p>\n<p>You will need your library card number, which is located just under the barcode on your library card. And you will need your password. If you don&#8217;t have your card and password  any CW MARS member library can get your number for you and generate a new password, or you can request a password reset on the login page if you have your library card number. If you plan to use the online catalog you will need to keep a record of your account number and password or the system will remember it for you if you click the &#8220;stay logged in?&#8221; box.</p>\n<p>If you need assistance call the SFPL at 413-625-0307 or email  sfplibrary@cwmars.org</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>&nbsp; First, go to cwmars.org Click on MY ACCOUNT in the top upper right of the page. This will take you to the Login page. You will need your library card number, which is located just under the barcode on your library card. And you will need your password. If you don&#8217;t have your card &#8230; <a title=\"Access my account\" class=\"read-more\" href=\"http://www.shelburnefreepubliclibrary.org/how-do-i/access-my-account/\">Read more <span class=\"screen-reader-text\">Access my account</span></a></p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 72,
+    "menu_order": 1,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/74"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=74"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 9,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/74/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 528,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/74/revisions/528"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=74"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "date": "2015-04-19T19:05:18",
+    "date_gmt": "2015-04-19T23:05:18",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=72"
+    },
+    "modified": "2020-06-21T10:03:56",
+    "modified_gmt": "2020-06-21T14:03:56",
+    "slug": "how-do-i",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/how-do-i/",
+    "title": {
+      "rendered": "How do I?"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 5,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=72"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 73,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/72/revisions/73"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=72"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "date": "2015-04-19T18:35:43",
+    "date_gmt": "2015-04-19T22:35:43",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=57"
+    },
+    "modified": "2020-06-28T08:30:43",
+    "modified_gmt": "2020-06-28T12:30:43",
+    "slug": "mls",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/mls/",
+    "title": {
+      "rendered": "Other local libraries"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://www.armslibrary.org/\" target=\"_blank\" rel=\"noopener noreferrer\">ARMS LIBRARY</a></p>\n<p><a href=\"https://bucklandpubliclibrary.org/\" target=\"_blank\" rel=\"noopener noreferrer\">BUCKLAND PUBLIC LIBRARY</a></p>\n<p><a href=\"https://colrain-ma.gov/p/27/Public-Library\">GRISWOLD MEMORIAL LIBRARY COLRAIN MA</a></p>\n<p><a href=\"http://www.heathlibrary.org/\" target=\"_blank\" rel=\"noopener noreferrer\">HEATH FREE PUBLIC LIBRARY</a></p>\n<p><a href=\"http://www.charlemont-ma.us/town/tyler-memorial-library\">TYLER MEMORIAL LIBRARY CHARLEMONT MA</a></p>\n<p><a href=\"https://rowe-ma.gov/p/48/Library\" target=\"_blank\" rel=\"noopener noreferrer\">TOWN OF ROWE LIBRARY</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>ARMS LIBRARY BUCKLAND PUBLIC LIBRARY GRISWOLD MEMORIAL LIBRARY COLRAIN MA HEATH FREE PUBLIC LIBRARY TYLER MEMORIAL LIBRARY CHARLEMONT MA TOWN OF ROWE LIBRARY &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 8,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/57"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=57"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/57/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 442,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/57/revisions/442"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=57"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "date": "2015-04-19T16:44:40",
+    "date_gmt": "2015-04-19T20:44:40",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=42"
+    },
+    "modified": "2023-02-20T11:21:26",
+    "modified_gmt": "2023-02-20T16:21:26",
+    "slug": "shelburne-free-public-library",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "<p>&nbsp;</p>\n<div></div>\n<div>\n<p>&nbsp;</p>\n</div>\n<div></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><a href=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2015/04/librarypostcard.jpg\"><img class=\"alignnone size-medium wp-image-127\" src=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2015/04/librarypostcard-300x169.jpg\" alt=\"\" width=\"300\" height=\"169\" srcset=\"http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2015/04/librarypostcard-300x169.jpg 300w, http://www.shelburnefreepubliclibrary.org/wp-content/uploads/2015/04/librarypostcard-1024x577.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 1,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/42"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=42"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 73,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/42/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 570,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/42/revisions/570"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=42"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "date": "2015-04-18T21:53:19",
+    "date_gmt": "2015-04-19T01:53:19",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=27"
+    },
+    "modified": "2021-09-11T08:33:02",
+    "modified_gmt": "2021-09-11T12:33:02",
+    "slug": "contact",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/contact/",
+    "title": {
+      "rendered": "Contact"
+    },
+    "content": {
+      "rendered": "<p>Elizabeth Antaya,  Library Director</p>\n<p>233 Shelburne Center Rd</p>\n<p>Shelburne, MA 01370</p>\n<p>413-625-0307</p>\n<p>sfplibrary@cwmars.org</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Elizabeth Antaya,  Library Director 233 Shelburne Center Rd Shelburne, MA 01370 413-625-0307 sfplibrary@cwmars.org</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 6,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/27"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=27"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/27/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 519,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/27/revisions/519"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "date": "2015-04-18T17:11:44",
+    "date_gmt": "2015-04-18T21:11:44",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=15"
+    },
+    "modified": "2020-06-21T13:24:57",
+    "modified_gmt": "2020-06-21T17:24:57",
+    "slug": "hours",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/hours/",
+    "title": {
+      "rendered": "Commonwealth Catalog"
+    },
+    "content": {
+      "rendered": "<p><a href=\"https://www.cwmars.org/search/commonwealth-catalog\" target=\"_blank\" rel=\"noopener noreferrer\">Search and Login for ComCat</a></p>\n<p>If you can&#8217;t find it in the CW MARS catalog you can search other libraries across the Commonwealth of Massachusetts via the Commonwealth Catalog.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Search and Login for ComCat If you can&#8217;t find it in the CW MARS catalog you can search other libraries across the Commonwealth of Massachusetts via the Commonwealth Catalog. &nbsp; &nbsp;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 4,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/15"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=15"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 10,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/15/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 401,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/15/revisions/401"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "date": "2015-04-17T14:38:54",
+    "date_gmt": "2015-04-17T18:38:54",
+    "guid": {
+      "rendered": "http://www.shelburnefreepubliclibrary.org/?page_id=8"
+    },
+    "modified": "2021-09-27T12:36:47",
+    "modified_gmt": "2021-09-27T16:36:47",
+    "slug": "catalog",
+    "status": "publish",
+    "type": "page",
+    "link": "http://www.shelburnefreepubliclibrary.org/catalog/",
+    "title": {
+      "rendered": "CW MARS Catalog"
+    },
+    "content": {
+      "rendered": "<p><a href=\"http://www.cwmars.org\" target=\"_blank\" rel=\"noopener noreferrer\">CW MARS</a></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>CW MARS</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 2,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/8"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/comments?post=8"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 12,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/8/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 541,
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/pages/8/revisions/541"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://www.shelburnefreepubliclibrary.org/wp-json/wp/v2/media?parent=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

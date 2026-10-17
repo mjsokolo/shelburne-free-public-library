@@ -1,0 +1,13 @@
+{
+  "name": "Shelburne Free Public Library",
+  "street": "233 Shelburne Center Rd.",
+  "city": "Shelburne, MA 01370",
+  "phone": "413-625-0307",
+  "email": "sfplibrary@cwmars.org",
+  "director": "Elizabeth Antaya",
+  "hours": [
+    { "day": "Tuesday", "time": "10:00 am - 3:00 pm" },
+    { "day": "Thursday", "time": "3:00 pm - 7:00 pm" },
+    { "day": "Saturday", "time": "10:00 am - 2:00 pm" }
+  ]
+}

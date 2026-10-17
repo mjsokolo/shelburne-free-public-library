@@ -1,0 +1,58 @@
+---
+import library from '../data/library.json';
+import { localUrl } from '../lib/pages';
+import '../styles/site.css';
+
+const { title, description = 'Hours, borrowing, digital resources, and help from Shelburne Free Public Library in Shelburne, Massachusetts.' } = Astro.props;
+const navigation = [
+  ['Home', '/'],
+  ['Hours & directions', '/hours-2/'],
+  ['Borrow & get help', '/how-do-i/'],
+  ['Digital resources', '/full-text-magazines-news-encyclopedias-and-e-reference-books/'],
+  ['Contact', '/contact/'],
+];
+const currentPath = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#174d40" />
+    <title>{title === 'Home' ? library.name : `${title} | ${library.name}`}</title>
+    <link rel="icon" href={localUrl('/media/2015/04/12-e1429630924157.jpg')} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header>
+      <div class="masthead wrap">
+        <a class="wordmark" href={localUrl('/')} aria-label={`${library.name} home`}>
+          <span>Shelburne</span><span>Free Public Library</span>
+        </a>
+        <div class="header-contact">
+          <span>{library.street} &middot; {library.city}</span>
+          <a href={`tel:+1${library.phone.replaceAll('-', '')}`}>{library.phone}</a>
+        </div>
+      </div>
+      <nav class="navigation" aria-label="Main navigation">
+        <div class="wrap nav-links">
+          {navigation.map(([label, path]) => (
+            <a href={localUrl(path)} aria-current={currentPath === localUrl(path) ? 'page' : undefined}>{label}</a>
+          ))}
+          <a class="catalog-link" href="https://www.cwmars.org/">CW MARS catalog <span aria-hidden="true">↗</span></a>
+        </div>
+      </nav>
+    </header>
+    <main id="main" class="wrap" tabindex="-1"><slot /></main>
+    <footer>
+      <div class="wrap footer-grid">
+        <div><strong>{library.name}</strong><p>{library.street}<br />{library.city}</p></div>
+        <div><a href={`tel:+1${library.phone.replaceAll('-', '')}`}>{library.phone}</a><br /><a href={`mailto:${library.email}`}>{library.email}</a></div>
+        <div><a href={localUrl('/mls/')}>Other local libraries</a><br /><a href={localUrl('/boston-public-library/')}>Boston Public Library</a></div>
+      </div>
+      <p class="wrap copyright">&copy; {new Date().getFullYear()} {library.name}</p>
+    </footer>
+  </body>
+</html>
